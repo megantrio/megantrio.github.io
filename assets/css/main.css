@@ -1481,3 +1481,9 @@ section,
   padding: 16px;         /* 원하는 만큼 여백 추가 */
   border-radius: 8px;    /* 모서리 둥글게(옵션) */
 }
+
+.head-bg {
+    background-color: #000000;
+    display: inline-block; /* 필요에 따라 block 또는 inline-block */
+    opacity: 0.8;
+}
